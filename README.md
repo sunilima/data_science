@@ -41,3 +41,22 @@ r destination and clone
 # further user will select a column
 # if column type is numeric then display the histogram
 # if column type is nominal then display the bar chart
+
+5a - create a file named "main.py" and a folder "services"
+in main.py write the code
+execute main.py by typing in terminal -> streamlit run main.py
+after few seconds you will see the python website in the web browser window (chrome/edge)
+to stop streamlit website press Ctrl+C/Ctrl+Z/Ctrl+V
+6 - add-commit-push to github
+6aa -
+Set your username: write in terminal replace your username
+
+git config --global user.name "username"
+
+Set your email address: write in terminal replace your email
+
+git config --global user.email "MY_NAME@example.com"
+
+6a - click on "source control" then "click on + in changes" then write commit message then click commit then click sync changes and then click ok
+6b - check on github.com in your branch if the code files are updated
+project1_dataviz/README.md at pranav · utkarshminds/project1_dataviz
